@@ -4,4 +4,4 @@ Release/
 *.sdf
 *.suo
 *.opensdf
-*vc?proj..user
+*vcxproj.user
